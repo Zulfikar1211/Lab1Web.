@@ -70,15 +70,12 @@
                     (seperti Google Chrome, Safari, atau Mozila Firefox). 
                     Browser tersebut membaca file HTML dan me-render kontennya sehingga user 
                     internet bisa melihat dan membacanya.
-
                     Biasanya, rata-rata situs web menyertakan sejumlah halaman HTML yang berbeda-beda.
                     Contohnya, beranda utama, halaman ‘tentang kami’, halaman kontak yang semuanya 
                     memiliki dokumen HTML terpisah.
-                    
                     Masing-masing halaman HTML terdiri atas seperangkat tags (bisa disebut juga elements),
                     yang mengacu pada building block halaman website. Tag tersebut membuat hirarki yang
                     menyusun konten hingga menjadi bagian, paragraf, heading, dan block konten lainnya.
-                    
                     Sebagian besar element HTML memiliki tag pembuka dan penutup yang menggunakan syntax <tag></tag>.</p>
 
  <!-- sub judul paragraf -->
